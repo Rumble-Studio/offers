@@ -40,9 +40,9 @@ Pas besoin de tout cocher pour postuler ! ;)
 - Good english level (for internal communication with the CEO)
 - Traitement audio ou Application autour de l’audio
 - Experience avec:
-- Sentry
-- Howler.js
-- Storybook.js
+   - Sentry
+   - Howler.js
+   - Storybook.js
 - Un compte public Github/Gitlab/…
 - Apprécie les podcasts / conversational AI / voice tech... :studio_microphone:
 - Expérience en CI/CD
