@@ -12,15 +12,27 @@ En région parisienne ou lilloise, remote essentiellement avec présentiel occas
 
 Développer différents algorithmes pour:
 
-1. analyser des transcriptions de conversations pour en extraire des informations macro (approche NER typiquement)
-2. prédire les prochaines questions/réponses des participants (Text generation, Question answering)
-3. mesurer les points communs entre différentes phrases dans différentes conversations (sentence similarity, mesure de la répétition, mesure de la nouveauté au sens de l'information contenue)
+1. Analyser des transcriptions de conversations pour en extraire des informations macro (approche NER typiquement)
+2. Prédire les prochaines questions/réponses des participants (Text generation, Question answering)
+3. Mesurer les points communs entre différentes phrases dans différentes conversations (sentence similarity, mesure de la répétition, mesure de la nouveauté au sens de l'information contenue)
 4. Proposer des tournures alternatives de phrases existantes
-5. identifier, implémenter et mesurer les performances des différents algorithmes sur nos données d'entreprises (vraies conversations entre nos clients et leurs invités)
+5. Identifier, implémenter et mesurer les performances des différents algorithmes sur nos données d'entreprises (vraies conversations entre nos clients et leurs invités)
+
+### Experience requise
+
+L'offre nécessite de savoir manipuler des modèles complexes, les ré-entraîner voire les modifier pour coller à nos besoins. Les méthodes d'évaluations doivent être connues, les bonnes pratiques de code et de ML sont essentielles. Le code doit atteindre une qualité de mise en production.
+
+Profils recherchés:
+
+- Docteur(e) + expérience en entreprise sur les sujets énoncés
+- Jeune docteur(e) (venant de soutenir ou avec soutenance proche)
+- Diplomé(e) d'un master recherche + 1 an d'expérience sur les sujets énoncés
+- Diplôme d'ingénieur ou universitaire avec formation théorique ET (stage OU experience) sur les sujets énoncés
 
 ### Compétences techniques recherchées
 
-- Python (numpy, pandas, scikit, notebook, tensorflow/pytorch, huggingface, SpaCy, rasa,…)
+- Connaissance des méthodes de NLP classiques et à l'état de l'art (pré-traitement, classif, génération, question-answering, transfert, ...)
+- Maîtrise du Python (numpy, pandas, scikit, notebook, tensorflow/pytorch, huggingface, SpaCy, rasa,…)
 - Versioning via Git
 - Bon niveau d'anglais
 
@@ -33,7 +45,7 @@ Développer différents algorithmes pour:
 - Expérience en traitement du signal audio (big bonus)
 - Apprécie les podcasts / conversational AI / voice tech... :studio_microphone:
 - Expérience en CI/CD, unit testing
-- publications académiques disponibles
+- Publications académiques disponibles
 
 ### Qualités humaines recherchées
 
@@ -42,30 +54,31 @@ Tu vas travailler en collaboration directe avec le CTO en remote. Il faut aimer 
 ### Gratification :money_mouth_face:
 
 Entre 30k et 50k annuel brut (en fonction de l'expérience, des diplômes), tickets resto (Swile), equity (actions de l'entreprise via BSPCE).
-Excellent simulateur de l'URSSAF: [https://mon-entreprise.fr/simulateurs/salaire-brut-net](https://mon-entreprise.fr/simulateurs/salaire-brut-net)
-
-### Experience requise
-
-L'offre nécessite de savoir manipuler des modèles complexes, les ré-entraîner voire les modifier pour coller à nos besoins. Les méthodes d'évaluations doivent être connues, les bonnes pratiques de code et de ML sont essentielles. Le code doit atteindre une qualité de mise en production.
-
-Profils recherchés:
-
-- docteur + expérience en entreprise sur les sujets énoncés
-- jeune docteur (venant de soutenir ou avec soutenance proche)
-- diplomé d'un master recherche + 1 ans d'expérience sur les sujets énoncés
-- diplôme d'ingénieur ou universitaire avec formation théorique ET (stage OU experience) sur les sujets énoncés
 
 ## Recrutement
+
+### Contact de référence
+
+Dr Joris GUERRY
+
+Co-fondateur & CTO
+
+joris@rumble.studio
+
+[https://www.linkedin.com/in/jorisguerry](https://www.linkedin.com/in/jorisguerry/)
+
+L'employé sera notamment sous mon encadrement direct.
+
 
 ### Processus de recrutement
 
 - Envoyer par email (joris@rumble.studio) :mailbox_with_mail::
-  - le lien vers ton profile Linkedin et/ou le CV en PDF
+  - le lien vers ton profile Linkedin et/ou le CV en **PDF**
   - le lien vers ton profile Github, Gitlab ou Bitbucket
-  - Une lettre de motivation en PDF
+  - une lettre de motivation en **PDF**
   - objet de l'email: _20210908_NLP_Engineer_
-- Echange(s) en visio avec le CTO en français :fr: (présentation du candidat et de l’entreprise)
-- Echange en visio avec le CEO en anglais :england:
+- Échange(s) en visio avec le CTO en français :fr: (présentation du candidat et de l’entreprise)
+- Échange en visio avec le CEO en anglais :england:
 - Rencontre de l'équipe à Paris dans nos locaux à Station F
 
 ## Plus de détails sur [Rumble Studio](https://rumble.studio)
