@@ -2,11 +2,13 @@
 
 CTO cherche 1 ingénieur/docteur H/F pour développer tout ou partie de nos algorithmes d'analyse et d'amélioration des conversations.
 
+Rumble Studio utilise un système de conversation en ligne automatisé pour acquérir de l'audio des participants. Le challenge : comment entretenir la conversation et la rendre intéressante malgré l'absence d'un humain pour la stimuler ? ;)
+
 ## Détails
 
 ### Où ?
 
-En région parisienne ou lilloise, remote essentiellement avec présentiel occasionel.
+En région parisienne ou lilloise, remote essentiellement avec présentiel occasionnel.
 
 ### Missions
 
@@ -68,7 +70,6 @@ joris@rumble.studio
 [https://www.linkedin.com/in/jorisguerry](https://www.linkedin.com/in/jorisguerry/)
 
 L'employé sera notamment sous mon encadrement direct.
-
 
 ### Processus de recrutement
 
